@@ -3,7 +3,7 @@
 %% Full Pupil diameter calculation and demonstration scrip
 % variables entered here feed through the first function
 ageYrs = 30;
-fieldDiameterDeg = 60;
+fieldDiameterDeg = 150;
 eyeNumber = 2;
 x = 10.^(-4:0.01:4);
 %% first plot
